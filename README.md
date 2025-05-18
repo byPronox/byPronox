@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="<img align="right" height="150" src="https://gist.githubusercontent.com/krushndayshmookh/9fb70798bb71b38fd7ec9cee788b8c7c/raw/6ec77d1cba5d6822b3c177679b1666d4f6544cdb/bongo-cat.gif" />" />
 
 ---
 
