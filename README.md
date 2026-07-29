@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! I'm Stefan Jativa (aka byPronox)</h2>
 
-🎓 I'm a Software Engineering student passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.  
-📚 Currently learning React, Node.js, SQL Server, and cloud computing (AWS).  
-💡 My goal is to become a Machine Learning Engineer.  
+🎓 Software Engineering student at UDLA | Full-Stack & Backend Engineer.  
+💼 Experienced in building scalable web applications, RESTful APIs, and customizing enterprise ERPs.  
+🧠 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and RAG architectures.  
+🛠️ Currently working extensively with Python (FastAPI), React, Next.js, Docker, and AWS.  
 📍 Based in Quito, Ecuador.  
 
 ---
@@ -21,21 +22,25 @@
 ### 🧠 Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" title="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" title="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" title="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" title="AWS" />
 </div>
 
 ---
@@ -43,13 +48,17 @@
 ### 🌐 Connect with me
 
 <div align="left">
-  <a href="https://linkedin.com/in/stefan-jativa" target="_blank">
+  <a href="https://www.linkedin.com/in/stefanjativa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:stefanjativaa@gmail.com" target="_blank">
+  <a href="mailto:stefanjativa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/yourDiscordID" target="_blank">
+  <a href="https://portafolio-eight-fawn-31.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
+  </a>
+  <!-- Reemplaza "TU_USUARIO_AQUI" con tu ID real de Discord si deseas mantener este botón, o bórralo si prefieres mantenerlo privado -->
+  <a href="https://discordapp.com/users/485218321952800774" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
 </div>
@@ -58,6 +67,6 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/byPronox/byPronox/output/snake.svg" alt="Snake animation" />
+\<img src="https://raw.githubusercontent.com/byPronox/byPronox/output/snake.svg" alt="Snake animation" />
 
 ---
