@@ -57,7 +57,6 @@
   <a href="https://portafolio-eight-fawn-31.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
-  <!-- Reemplaza "TU_USUARIO_AQUI" con tu ID real de Discord si deseas mantener este botón, o bórralo si prefieres mantenerlo privado -->
   <a href="https://discordapp.com/users/485218321952800774" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
@@ -67,6 +66,6 @@
 
 <br clear="both" />
 
-\<img src="https://raw.githubusercontent.com/byPronox/byPronox/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/byPronox/byPronox/output/snake.svg" alt="Snake animation" />
 
 ---
